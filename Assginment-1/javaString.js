@@ -1,9 +1,9 @@
-const string1 = 'sumit';
-const string2 = 'javasumit';
-const ans = addJava(string2);
+const string1 = process.argv[2];
+// const string2 = 'javasumit';
+const ans = addJava(string1);
 
 function addJava(string){
-    if(string.substring(0,4) == 'java'){
+    if( string.length>3 && string.substring(0,4) == 'java'){
         return string;
     }else{
         return 'java'+string
@@ -11,3 +11,4 @@ function addJava(string){
 }
 
 console.log(ans);
+// console.log();
