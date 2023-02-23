@@ -1,0 +1,23 @@
+{
+  "name": "rahul-js-assignment",
+  "version": "1.0.0",
+  "description": "Assignment solutions given by @rahul.kumar.kiwi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitpanwar-kiwi/Rahul-JS-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitpanwar-kiwi/Rahul-JS-Assignment/issues"
+  },
+  "homepage": "https://github.com/sumitpanwar-kiwi/Rahul-JS-Assignment#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
