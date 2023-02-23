@@ -1,0 +1,58 @@
+[
+    {
+      "groupId": 5,
+      "stories" : [
+        {
+          "storyId": 5
+        },
+        {
+          "storyId": 2
+        },
+        {
+          "storyId": 0
+        }
+      ]
+    },
+    {
+      "groupId": 4,
+      "stories": [
+        {
+          "storyId": 6
+        },
+        {
+          "storyId": 1
+        },
+        {
+          "storyId": 2
+        }
+      ]
+    },
+    {
+      "groupId": 1,
+      "stories": [
+        {
+          "storyId": 0
+        },
+        {
+          "storyId": 9
+        },
+        {
+          "storyId": 6
+        }
+      ]
+    },
+    {
+      "groupId": 9,
+      "stories": [
+        {
+          "storyId": 1
+        },
+        {
+          "storyId": 5
+        },
+        {
+          "storyId": 9
+        }
+      ]
+    }
+]
